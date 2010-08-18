@@ -1,11 +1,9 @@
 ******************** README file ***********************
 For installation instructions, see the INSTALL file.
 
-To run PyMetrics, enter either
+To run PyMetrics, enter
 
-	python PyMetrics.py
-or
-	./PyMetrics.py
+	pymetrics.py
 
 It will give you instructions on how to use the program 
 and list its options.

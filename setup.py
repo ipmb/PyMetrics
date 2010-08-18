@@ -9,5 +9,5 @@ setup (name = "PyMetrics",
        description = "PyMetrics produces metrics for Python programs",
        url = "http://sourceforge.net/projects/pymetrics/",
        packages = ['PyMetrics'],
-       scripts = ['pymetrics']
+       scripts = ['pymetrics.py']
 )
